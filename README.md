@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @rashidul738
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science Engineer and AI
+- 🌱 I’m currently learning Data Science Engineer
+- 💞️ I’m looking to collaborate on Data Science Engineer and AI Expert who is already experienced in this section.
+- 📫 How to reach me? Actually I'm a freelancer in Upwork. You can find here.
+- Contact Me:
+- Upwork Profile Link: https://www.upwork.com/freelancers/rashidul738
+- Linkedin: https://www.linkedin.com/in/rashidul-islam-337228b1/
+- GitHub: https://github.com/rashidul738
+- 
 
 <!---
 rashidul738/rashidul738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
