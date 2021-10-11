@@ -1,4 +1,4 @@
-### Hi there, I'm Rashidul - [rashidul738][website] 👋
+### Hi there, I'm Rashidul - [rashidul738][Website] 👋
 
 [![Website](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&url=https://www.upwork.com/freelancers/rashidul738)](https://www.upwork.com/freelancers/rashidul738)
 
@@ -15,14 +15,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="upwork.com" width="22px" src="https://www.upwork.com/profile-portraits/c133kJJTCP7AJf8HbVb62dw_N2v1ZYcqF5BGH-70wBJ4Qehlqc2221bWsA7nOast-2" />][website]
+[<img align="left" alt="upwork.com" width="22px" src="https://www.upwork.com/profile-portraits/c133kJJTCP7AJf8HbVb62dw_N2v1ZYcqF5BGH-70wBJ4Qehlqc2221bWsA7nOast-2" />][Website]
 
-[<img align="left" alt="Rashidul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rashidul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 
-- Upwork Profile Link: https://www.upwork.com/freelancers/rashidul738
-- Linkedin: https://www.linkedin.com/in/rashidul-islam-337228b1/
-- GitHub: https://github.com/rashidul738
-- 
 
 <!---
 rashidul738/rashidul738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +28,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[website]: https://www.upwork.com/freelancers/rashidul738
-[linkedin]: https://www.linkedin.com/in/rashidul-islam-337228b1/
-[github]: https://github.com/rashidul738
+[Website]: https://www.upwork.com/freelancers/rashidul738
+[Linkedin]: https://www.linkedin.com/in/rashidul-islam-337228b1/
+[Github]: https://github.com/rashidul738
