@@ -14,7 +14,7 @@
 
 
 ### Connect with me:
-[<img align="left" alt="upwork.com" width="22px" src="https://www.upwork.com/freelancers/rashidul738" />][website]
+[<img align="left" alt="upwork.com" width="22px" src="https://www.upwork.com/profile-portraits/c133kJJTCP7AJf8HbVb62dw_N2v1ZYcqF5BGH-70wBJ4Qehlqc2221bWsA7nOast-2" />][website]
 
 - Upwork Profile Link: https://www.upwork.com/freelancers/rashidul738
 - Linkedin: https://www.linkedin.com/in/rashidul-islam-337228b1/
