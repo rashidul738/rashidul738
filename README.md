@@ -1,6 +1,8 @@
-### Hi there, I'm Rashidul738 - [Upwork][website] 👋
+### Hi there, I'm Rashidul - [rashidul738][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.upwork.com/freelancers/rashidul738)
+[![Website](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&url=https://www.upwork.com/freelancers/rashidul738)](https://www.upwork.com/freelancers/rashidul738)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 
 ## I’m Python Developer, Web Scraping and Data Extraction Expert!!
@@ -23,3 +25,9 @@
 rashidul738/rashidul738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+[website]: https://www.upwork.com/freelancers/rashidul738
+[linkedin]: https://www.linkedin.com/in/rashidul-islam-337228b1/
+[github]: https://github.com/rashidul738
