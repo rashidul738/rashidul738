@@ -1,4 +1,4 @@
-### Hi there, I'm Rashidul738 - [Upwork][Website] 👋
+### Hi there, I'm Rashidul738 - [Upwork][website] 👋
 - 👋 Hi, I’m @rashidul738
 - 👀 I’m interested in Data Science Engineer and AI
 - 🌱 I’m currently learning Data Science Engineer
