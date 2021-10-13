@@ -50,7 +50,7 @@
 <a href="https://github.com/rashidul738/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rashidul738&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/rashidul738/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rashidul738&repo=rashidul738.github.io&theme=buefy" />
 </a>
 <!---
