@@ -2,8 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&url=https://www.upwork.com/freelancers/rashidul738)](https://www.upwork.com/freelancers/rashidul738)
 
-<!-- [<img align="left" alt="Rashidul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin] -->
-
 
 ## I’m Python Developer, Web Scraping and Data Extraction Expert!!
 - 👀 I’m interested in Data Science Engineer and AI
@@ -45,29 +43,20 @@
 | ------------- | ------------- |
 
 
+
+#### Top Repositories
+
+
+<a href="https://github.com/rashidul738/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rashidul738&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rashidul738&repo=rashidul738.github.io&theme=buefy" />
+</a>
 <!---
 rashidul738/rashidul738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-<!-- ---
-
-<img align="center" alt="rashidul738's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rashidul738&show_icons=true&hide_border=true" />
-
-<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidul738&layout=compact" />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashidul738&repo=github-readme-stats)](https://github.com/rashidul738/github-readme-stats) -->
-
-
-<!-- [![Rashidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidul738)](https://github.com/rashidul738/github-readme-stats) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidul738)](https://github.com/rashidul738/github-readme-stats) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidul738&layout=compact)](https://github.com/rashidul738/github-readme-stats) -->
-
-
-
 
 
 [Website]: https://www.upwork.com/freelancers/rashidul738
