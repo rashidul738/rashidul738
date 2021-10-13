@@ -35,10 +35,14 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][Website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][Website]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][Website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][Website]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][Website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
+
+
+
+
+| <a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidul738&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rashidul's github stats" /></a> | <a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidul738&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 <!---
@@ -47,11 +51,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
----
+<!-- ---
 
 <img align="center" alt="rashidul738's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rashidul738&show_icons=true&hide_border=true" />
 
 <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidul738&layout=compact" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rashidul738&repo=github-readme-stats)](https://github.com/rashidul738/github-readme-stats) -->
+
 
 <!-- [![Rashidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidul738)](https://github.com/rashidul738/github-readme-stats) -->
 
