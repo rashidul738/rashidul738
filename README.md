@@ -49,9 +49,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<img align="left" alt="rashidul738's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rashidul738&show_icons=true&hide_border=true" />
+<img align="center" alt="rashidul738's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rashidul738&show_icons=true&hide_border=true" />
 
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidul738&layout=compact" />
+<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidul738&layout=compact" />
 
 <!-- [![Rashidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidul738)](https://github.com/rashidul738/github-readme-stats) -->
 
