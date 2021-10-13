@@ -46,6 +46,12 @@ rashidul738/rashidul738 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+---
+
+<img align="left" alt="rashidul738's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rashidul738&show_icons=true&hide_border=true" />
+
+[![Rashidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidul738)](https://github.com/rashidul738/github-readme-stats)
+
 
 
 [Website]: https://www.upwork.com/freelancers/rashidul738
