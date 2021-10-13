@@ -44,7 +44,7 @@
 
 
 
-#### Top Repositories
+<!-- #### Top Repositories
 
 
 <a href="https://github.com/rashidul738/github-readme-stats">
@@ -52,7 +52,7 @@
 </a>
 <a href="https://github.com/rashidul738/rashidul738.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rashidul738&repo=rashidul738.github.io&theme=buefy" />
-</a>
+</a> -->
 <!---
 rashidul738/rashidul738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
