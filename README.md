@@ -69,12 +69,10 @@
 ## Connect with me:
 <p align="left">
 
-<!-- <a [![Website](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&url=https://www.upwork.com/freelancers/rashidul738)](https://www.upwork.com/freelancers/rashidul738) </a> -->
-
-<a href = "https://www.upwork.com/freelancers/rashidul738/"></a>
 <a href = "https://www.linkedin.com/in/rashidul-islam-337228b1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/channel/UC63rsXMTUnznoKNZ5Al9K6w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
+[![Website](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&url=https://www.upwork.com/freelancers/rashidul738)](https://www.upwork.com/freelancers/rashidul738)
 </p>
 
 ## ❤ Views and Followers
