@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rashidul</h1>[Website]
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rashidul</h1> 
 
 <!-- ### Hi there, I'm Rashidul - [rashidul738] 👋 -->
 
@@ -68,6 +68,8 @@
 
 ## Connect with me:
 <p align="left">
+
+[![Website](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&url=https://www.upwork.com/freelancers/rashidul738)](https://www.upwork.com/freelancers/rashidul738)
 
 <a href = "https://www.linkedin.com/in/rashidul-islam-337228b1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/channel/UC63rsXMTUnznoKNZ5Al9K6w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
