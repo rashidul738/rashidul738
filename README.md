@@ -69,7 +69,7 @@
 ## 💬 Connect with me:
 <p align="left">
 
-[<img align="left" alt="upwork.com" width="60px" src="https://www.upwork.com/profile-portraits/c133kJJTCP7AJf8HbVb62dw_N2v1ZYcqF5BGH-70wBJ4Qehlqc2221bWsA7nOast-2" />][Website]
+[<img align="left" alt="upwork.com" width="40px" src="https://www.upwork.com/profile-portraits/c133kJJTCP7AJf8HbVb62dw_N2v1ZYcqF5BGH-70wBJ4Qehlqc2221bWsA7nOast-2" />][Website]
 
 [<img align="left" alt="Rashidul | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
