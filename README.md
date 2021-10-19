@@ -39,6 +39,17 @@
 <br />
 <br />
 
+
+<p align="center">
+    <a href="https://github.com/rashidul738/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rashidul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidul738&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
+<br />
+<br />
+
 | <a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidul738&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rashidul's github stats" /></a> | <a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidul738&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
