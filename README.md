@@ -17,7 +17,7 @@
 
 
 
-### Connect with me:
+### 💬 Connect with me:
 
 [<img align="left" alt="upwork.com" width="22px" src="https://www.upwork.com/profile-portraits/c133kJJTCP7AJf8HbVb62dw_N2v1ZYcqF5BGH-70wBJ4Qehlqc2221bWsA7nOast-2" />][Website]
 
@@ -27,7 +27,7 @@
 
 <br />
 
-### Languages and Tools:
+## 🚀 Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Website]
@@ -66,13 +66,20 @@
 <br/>
 <br/>
 
-## Connect with me:
+## 💬 Connect with me:
 <p align="left">
+
+[<img align="left" alt="upwork.com" width="32px" src="https://www.upwork.com/profile-portraits/c133kJJTCP7AJf8HbVb62dw_N2v1ZYcqF5BGH-70wBJ4Qehlqc2221bWsA7nOast-2" />][Website]
+
+[<img align="left" alt="Rashidul | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
+
+[![Website](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&url=https://www.upwork.com/freelancers/rashidul738)](https://www.upwork.com/freelancers/rashidul738)
 
 <a href = "https://www.linkedin.com/in/rashidul-islam-337228b1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/channel/UC63rsXMTUnznoKNZ5Al9K6w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
-[![Website](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&url=https://www.upwork.com/freelancers/rashidul738)](https://www.upwork.com/freelancers/rashidul738)
+
 </p>
 
 ## ❤ Views and Followers
