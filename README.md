@@ -1,4 +1,8 @@
-### Hi there, I'm Rashidul - [rashidul738][Website] 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rashidul</h1>[Website]
+
+<!-- ### Hi there, I'm Rashidul - [rashidul738] 👋 -->
 
 [![Website](https://img.shields.io/website?label=Upwork.com&style=for-the-badge&url=https://www.upwork.com/freelancers/rashidul738)](https://www.upwork.com/freelancers/rashidul738)
 
@@ -58,6 +62,23 @@
 <br/>
 
 <a href="https://github.com/rashidul738/github-readme-activity-graph"><img alt="Rashidul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rashidul738&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/rashidul-islam-337228b1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.youtube.com/channel/UC63rsXMTUnznoKNZ5Al9K6w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=rashidul738">
+</a>
+<a href="https://github.com/rashidul738?tab=followers"><img src="https://img.shields.io/github/followers/rashidul738?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
 
