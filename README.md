@@ -52,7 +52,8 @@
 
  |<a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidul738&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Rashidul's github stats" /></a> | <a href="https://github.com/rashidul738/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidul738&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 | ------------- | ------------- |
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<b><img src="https://img.icons8.com/flat-round/64/000000/wide-long-right-arrow.png"/>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 
